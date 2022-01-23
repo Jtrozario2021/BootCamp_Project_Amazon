@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-23T03:52:46 EST" name="Adhoc" finished-at="2022-01-23T03:53:00 EST" duration-ms="13543">
+    <groups>
+    </groups>
+    <test started-at="2022-01-23T03:52:46 EST" name="RegressionOfChrome" finished-at="2022-01-23T03:53:00 EST" duration-ms="13543">
+      <class name="ProjectBootcamp3.Amazon.listners">
+        <test-method is-config="true" signature="beforeTest(java.lang.String,java.lang.String)[pri:0, instance:ProjectBootcamp3.Amazon.listners@49049a04]" started-at="2022-01-23T03:52:46 EST" name="beforeTest" finished-at="2022-01-23T03:52:49 EST" duration-ms="2511" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.amazon.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:ProjectBootcamp3.Amazon.listners@49049a04]" started-at="2022-01-23T03:52:49 EST" name="beforeMethod" finished-at="2022-01-23T03:52:49 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f()[pri:0, instance:ProjectBootcamp3.Amazon.listners@49049a04]" started-at="2022-01-23T03:52:49 EST" name="f" finished-at="2022-01-23T03:52:54 EST" duration-ms="4905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:ProjectBootcamp3.Amazon.listners@49049a04]" started-at="2022-01-23T03:52:54 EST" name="afterMethod" finished-at="2022-01-23T03:52:54 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:ProjectBootcamp3.Amazon.listners@49049a04]" started-at="2022-01-23T03:52:54 EST" name="afterTest" finished-at="2022-01-23T03:53:00 EST" duration-ms="6103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- ProjectBootcamp3.Amazon.listners -->
+    </test> <!-- RegressionOfChrome -->
+  </suite> <!-- Adhoc -->
+</testng-results>
